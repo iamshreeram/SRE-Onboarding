@@ -20,7 +20,7 @@ I can write an explanation for all of these or you can just go read the excellen
 1.  perf - [Brendan Gregg's](http://www.brendangregg.com/perf.html) amazing set of examples.
 1.  netcat - [Tutorial](https://www.binarytides.com/netcat-tutorial-for-beginners/)
 1.  ngrep
-1.  tcpdump
+1.  tcpdump - [Tutorial](https://danielmiessler.com/study/tcpdump/)
 1.  lsof
 1.  Print [this](http://www.brendangregg.com/Perf/linux_observability_tools.png) image out and memorize it.
 
